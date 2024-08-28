@@ -51,6 +51,3 @@ To get a local copy of the project up and running, follow these steps:
     ```
 
 3. **Send the command `/start` to your bot on Telegram to start the process.**
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.

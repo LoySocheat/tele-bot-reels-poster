@@ -3,14 +3,14 @@
 To get a local copy of the project up and running, follow these steps:
 
 
-### Clone the repository:
+1. **Clone the repository:**
     
     ```bash
     git clone https://github.com/LoySocheat/tele-bot-reels-poster.git
     ```
 
-### Navigate to the project directory:
-    
+2. **Navigate to the project directory:**
+
     ```bash
     cd tele-bot-reels-poster
     ```

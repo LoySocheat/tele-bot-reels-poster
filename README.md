@@ -1,3 +1,14 @@
+#  Introduction to Video Upload Bot
+
+This is a Telegram bot that allows users to upload videos to Facebook. The bot supports video files and URLs from YouTube, TikTok, and Instagram. Users can provide a title and description for the video, and the bot will handle the upload process to Facebook.
+
+## How to Use
+1. **Start a chat with the bot on Telegram.**
+2. **Send your Facebook access token.**
+3. **Share a video file or a URL (YouTube, TikTok, or Instagram).**
+4. **Follow the bot's prompts to enter the title and description of the video.**
+5. **The bot will handle the upload to Facebook and provide status updates throughout the process.**
+
 ## Getting Started
 
 To get a local copy of the project up and running, follow these steps:

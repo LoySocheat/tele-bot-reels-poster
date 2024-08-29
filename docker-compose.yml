@@ -3,7 +3,7 @@ version: '3'
 services:
   fb:
     restart: always
-    image: ghcr.io/loysocheat/tele-bot-reels-poster:v1.0
+    image: ghcr.io/loysocheat/tele-bot-reels-poster:v2.0
     container_name: tele-bot-reels-poster
 
     volumes:

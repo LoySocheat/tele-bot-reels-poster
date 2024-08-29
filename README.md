@@ -41,7 +41,7 @@ To get a local copy of the project up and running, follow these steps:
 1. **Docker pull the image:**
 
     ```bash
-    sudo docker pull ghcr.io/loysocheat/tele-bot-reels-poster:v1.0
+    sudo docker pull ghcr.io/loysocheat/tele-bot-reels-poster:v2.0
     ```
 
 2. **Run with docker docker-compose:**

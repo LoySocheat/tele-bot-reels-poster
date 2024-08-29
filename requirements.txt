@@ -3,3 +3,4 @@ python-dotenv
 requests==2.32.3
 pytube==15.0.0
 yt-dlp==2024.8.6
+instaloader==4.13.1
